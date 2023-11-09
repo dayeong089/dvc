@@ -1,0 +1,5 @@
+outs:
+- md5: da1908fa4a957ee9b243e9e719732823
+  size: 157286400
+  hash: md5
+  path: random_tensor.bin
